@@ -9,3 +9,4 @@ jdk:
 matrix:
   allow_failures:
     - oraclejdk7
+script: /dsl-platform-java/sbt.sh
