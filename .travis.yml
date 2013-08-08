@@ -8,4 +8,4 @@ jdk:
 matrix:
   allow_failures:
     - oraclejdk7
-script: /dsl-client-java/prepare-workspace.sh
+script: ./prepare-workspace.sh
