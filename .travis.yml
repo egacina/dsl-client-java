@@ -1,10 +1,9 @@
-language: java
+language: scala
+scala:
+   - 2.8.2
+   - 2.9.2
 jdk:
-  - openjdk7
-  - oraclejdk7
-jdk:
-  - openjdk6
-  - openjdk7
+  - oraclejdk6
   - oraclejdk7
 matrix:
   allow_failures:
