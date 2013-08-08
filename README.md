@@ -2,6 +2,8 @@
 
 ## Introduction
 
+[![Build Status](https://travis-ci.org/egacina/dsl-client-java.png)](https://travis-ci.org/egacina/dsl-client-java)
+
 DSL client is a set of core Java files used for interaction of DSL platform and Java.
 
 If you are new to the DSL platform, take a look at [introduction] [3] and check out [the tutorials] [4]. 
